@@ -1,0 +1,5 @@
+/* FinanceChart.css */
+
+.custom-chart .apexcharts-bar-series rect {
+    width: 40px; /* Adjust the width of the bars as needed */
+}

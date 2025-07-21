@@ -1,0 +1,73 @@
+[
+  {
+    "_id": "607fc8d2-b02a-4822-91e9-8108abbc115b",
+    "colName": "chatchef",
+    "created": "2023-05-24T05:50:34.087Z",
+    "sortNum": 10000,
+    "folders": [
+      {
+        "_id": "dd12140c-a0da-4e04-8914-a0a029d7939e",
+        "name": "accounts",
+        "containerId": "",
+        "created": "2023-05-25T19:46:46.360Z",
+        "sortNum": 10000
+      },
+      {
+        "_id": "50179770-1331-4e6b-91be-f54ae607ebee",
+        "name": "food",
+        "containerId": "",
+        "created": "2023-05-25T19:47:33.155Z",
+        "sortNum": 20000
+      },
+      {
+        "_id": "46089966-17dd-447a-be3f-5d8484522d2e",
+        "name": "menu",
+        "containerId": "50179770-1331-4e6b-91be-f54ae607ebee",
+        "created": "2023-05-29T17:03:06.389Z",
+        "sortNum": 30000
+      },
+      {
+        "_id": "45283ca0-809e-4051-b5ad-237a6794b1d2",
+        "name": "restaurant",
+        "containerId": "50179770-1331-4e6b-91be-f54ae607ebee",
+        "created": "2023-05-29T17:03:24.280Z",
+        "sortNum": 40000
+      },
+      {
+        "_id": "60daafd7-0dea-4928-bc34-edc2cfdba3fd",
+        "name": "location",
+        "containerId": "50179770-1331-4e6b-91be-f54ae607ebee",
+        "created": "2023-05-29T17:03:51.183Z",
+        "sortNum": 50000
+      },
+      {
+        "_id": "278b724d-9464-416f-b12a-f4b30a855f93",
+        "name": "category",
+        "containerId": "50179770-1331-4e6b-91be-f54ae607ebee",
+        "created": "2023-05-29T17:04:04.851Z",
+        "sortNum": 60000
+      },
+      {
+        "_id": "ed1440c3-af4d-4f16-ae22-d9295af8c950",
+        "name": "menu item",
+        "containerId": "50179770-1331-4e6b-91be-f54ae607ebee",
+        "created": "2023-05-29T17:04:20.848Z",
+        "sortNum": 70000
+      },
+      {
+        "_id": "10b4b6be-5b80-4a9d-9db1-6ab6b306fe84",
+        "name": "modifier group",
+        "containerId": "50179770-1331-4e6b-91be-f54ae607ebee",
+        "created": "2023-05-29T17:04:39.072Z",
+        "sortNum": 80000
+      },
+      {
+        "_id": "2b450e78-14ea-40d6-86a7-d05c0c646a51",
+        "name": "billing",
+        "containerId": "",
+        "created": "2023-07-18T22:49:46.574Z",
+        "sortNum": 90000
+      }
+    ]
+  }
+]

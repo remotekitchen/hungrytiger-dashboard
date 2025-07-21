@@ -1,0 +1,26 @@
+{
+    "_id": "2bb68b4f-abaa-4e20-80dd-a0a673b848b5",
+    "name": "chatchef",
+    "default": true,
+    "sortNum": 10000,
+    "created": "2023-05-24T05:53:52.573Z",
+    "modified": "2023-05-24T05:53:52.573Z",
+    "data": [
+        {
+            "name": "API_ROOT",
+            "value": "https://api.chatchefs.com/api/"
+        },
+        {
+            "name": "SOUMIKS_TOKEN",
+            "value": "0e036a5f7c5117ee56aa1f434e41bc3013339ed1"
+        },
+        {
+            "name": "LOCALHOST",
+            "value": "http://127.0.01:8000/api/"
+        },
+        {
+            "name": "ANIKS_TOKEN",
+            "value": "557ec9f837d97cb52de210c22cf3e99e1fec8e9e"
+        }
+    ]
+}

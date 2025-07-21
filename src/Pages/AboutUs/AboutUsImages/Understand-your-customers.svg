@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="44px" height="42px" viewBox="0 0 44 42" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>Understand your customers</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Understand-your-customers" transform="translate(1.000000, 1.000000)" stroke-width="2">
+            <g id="Speech_balloon" transform="translate(22.000000, 0.000000)" stroke="#1FE4CB" fill-rule="nonzero" stroke-linejoin="round">
+                <path d="M1.37715286,16 L3.23702127,11.744855 C2.06152011,10.8208808 -0.0318381537,9.36197379 0.000367304641,6.63868076 C-0.0169432288,2.53196869 5.54271561,-0.0472018428 9.87940757,0.000654684685 C15.6441938,-0.00745030685 20.0080402,3.02383419 19.9999889,6.61436592 C19.9919376,11.4773891 13.2448832,14.6383537 6.35290438,12.9606109 L1.37715286,16 Z" id="Shape"></path>
+            </g>
+            <path d="M25.175,39.55 C25.175,29.3051179 19.5393843,21 12.5875,21 C5.63561571,21 0,29.3051179 0,39.55 C8.04201389,39.55 18.1819444,39.55 25.175,39.55 Z" id="Oval-2" stroke="#000000" fill="#FFFFFF"></path>
+            <circle id="Oval" stroke="#000000" fill="#FFFFFF" cx="11.95" cy="14.95" r="7.95"></circle>
+        </g>
+    </g>
+</svg>

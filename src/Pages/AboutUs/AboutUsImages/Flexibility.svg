@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="45px" height="44px" viewBox="0 0 45 44" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>Flexibility</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Flexibility" transform="translate(1.000000, 1.000000)" stroke-width="2">
+            <path d="M30,21 L32,20" id="Line-6-Copy" stroke="#242121" stroke-linecap="square"></path>
+            <path d="M27,30 L29,32" id="Line-6-Copy-2" stroke="#242121" stroke-linecap="square"></path>
+            <path d="M14,32 L15.5,30" id="Line-6-Copy" stroke="#242121" stroke-linecap="square"></path>
+            <path d="M11,20 L13.5,21" id="Line-6-Copy" stroke="#242121" stroke-linecap="square"></path>
+            <circle id="Oval-6" stroke="#000000" cx="21.5" cy="23.5" r="7.5"></circle>
+            <circle id="Oval-6-Copy" stroke="#1FE4CB" cx="37.5" cy="17.5" r="5.5"></circle>
+            <circle id="Oval-6-Copy-3" stroke="#1FE4CB" cx="33.5" cy="36.5" r="5.5"></circle>
+            <circle id="Oval-6-Copy-4" stroke="#1FE4CB" cx="9.5" cy="36.5" r="5.5"></circle>
+            <circle id="Oval-6-Copy-5" stroke="#1FE4CB" cx="5.5" cy="17.5" r="5.5"></circle>
+            <circle id="Oval-6-Copy-2" stroke="#1FE4CB" cx="21.5" cy="5.5" r="5.5"></circle>
+            <path d="M21.5,14.5 L21.5,13" id="Line-6" stroke="#242121" stroke-linecap="square"></path>
+        </g>
+    </g>
+</svg>

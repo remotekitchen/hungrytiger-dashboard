@@ -1,0 +1,15 @@
+.dashboardLink:hover {
+  background: none;
+  box-shadow: gray 0px 9px 10px -7px;
+  color: #677bfe;
+}
+
+.dashboardLink_active {
+  box-shadow: gray 2px 11px 15px -13px;
+  color: #677bfe !important;
+  background: white;
+}
+.dashboardLink_collapse:hover {
+  box-shadow: gray 0px 9px 10px -7px !important;
+  border: red 2px solid !important;
+}

@@ -1,0 +1,11 @@
+.common_button_shadow {
+	box-shadow: rgb(59 130 246 / var(--tw-bg-opacity)) 2px 2px 2px 2px;
+}
+.custom-gradient {
+	background: linear-gradient(
+		90deg,
+		rgba(254, 206, 120, 1) 41%,
+		rgba(254, 206, 120, 0.639093137254902) 69%,
+		rgba(254, 207, 120, 0.493) 100%
+	);
+}

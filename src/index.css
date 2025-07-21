@@ -1,0 +1,67 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.common_button_shadow {
+	box-shadow: #4a66d9 6px 6px 22px -3px;
+}
+
+/* custome scrollbar */
+.custom_scrollbar::-webkit-scrollbar {
+	width: 10px;
+}
+
+.custom_scrollbar::-webkit-scrollbar-track {
+	background: transparent;
+	border-radius: 10px;
+}
+
+.custom_scrollbar::-webkit-scrollbar-thumb {
+	background-color: #68a6c5;
+	border-radius: 10px;
+}
+
+.custom_scrollbar::-webkit-scrollbar-thumb:hover {
+	background-color: #03698e;
+}
+
+.css-13cymwt-control {
+	border-radius: 8px !important;
+	border: 1px solid #e1e4e7 !important;
+}
+
+/* Animate style for Ai-Generated Image - Button */
+.gradient-flow-border {
+	background: linear-gradient(
+		90deg,
+		#da3a1265,
+		#fffdf981,
+		#03030398,
+		#9b21ec54
+	); /* Closed loop of colors */
+	background-size: 300% 300%; /* Larger background size for more dynamic effect */
+	animation: flowing-gradient 5s ease infinite; /* Duration 6s for smoother flow */
+}
+
+.index-module_slot_wrap__ZT-DX {
+	font-size: 2rem;
+	font-weight: 600;
+}
+
+@keyframes flowing-gradient {
+	0% {
+		background-position: 0% 50%;
+	}
+	25% {
+		background-position: 50% 0%;
+	}
+	50% {
+		background-position: 100% 50%;
+	}
+	75% {
+		background-position: 50% 100%;
+	}
+	100% {
+		background-position: 0% 50%;
+	}
+}

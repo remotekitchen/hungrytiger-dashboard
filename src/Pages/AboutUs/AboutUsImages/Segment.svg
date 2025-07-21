@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="42px" viewBox="0 0 40 42" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>Segment</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Segment" transform="translate(-5.000000, -3.000000)" stroke-width="2">
+            <path d="M25.3284886,45.6689947 C20.6976292,45.6689947 16.3437623,43.8655876 13.0694968,40.5913221 C6.31016773,33.8315991 6.31016773,22.8330615 13.0694968,16.0733384 C16.0176017,13.1252335 23.1359983,8.92103722 29.6543248,11.3133468 C32.3434555,12.3002923 34.4368687,13.529359 36.7581831,16.7583757 L24.9344735,28.3307542 C24.9340795,28.4359563 24.9754511,28.5364301 25.04992,28.610899 L37.3053657,40.8667387 C34.0653795,43.9668495 29.8273531,45.6689947 25.3284886,45.6689947 Z" id="Path" stroke="#000000" transform="translate(22.652683, 28.137514) rotate(-64.000000) translate(-22.652683, -28.137514) "></path>
+            <path d="M34.1033596,25.2225239 L22.1260886,13.2456468 L34.1033596,1.26876981 C40.4946786,7.95363002 40.4946786,18.5376637 34.1033596,25.2225239 Z" id="Path" stroke="#1FE4CB" transform="translate(30.511469, 13.245647) rotate(-64.000000) translate(-30.511469, -13.245647) "></path>
+        </g>
+    </g>
+</svg>

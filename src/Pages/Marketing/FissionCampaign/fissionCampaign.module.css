@@ -1,0 +1,7 @@
+.fissionCampaign__image_container {
+  background-image: url("../../../assets/campaign/preview_img_bg.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-color: #003f5c;
+}
