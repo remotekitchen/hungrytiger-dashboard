@@ -9,7 +9,7 @@
     "data": [
       {
         "name": "API_ROOT",
-        "value": "https://api.chatchefs.com/api/"
+        "value": "http://api.hungry-tiger.com/api/"
       },
       {
         "name": "SOUMIKS_TOKEN",

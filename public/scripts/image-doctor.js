@@ -1,7 +1,7 @@
 var selectedImages = [];
 var selectedCount = 0;
 var selectedCell, excelUrl, excelName, selectedOriginalImage;
-const apiRoot = "https://api.chatchefs.com/api/image-generator/v1/";
+const apiRoot = "http://api.hungry-tiger.com/api/image-generator/v1/";
 function onUploadClick(cellNo, originalImage) {
   $(`#upload-${selectedCell}`).removeClass("bg-success text-white");
 

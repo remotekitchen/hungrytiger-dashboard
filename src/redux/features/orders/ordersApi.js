@@ -7,7 +7,7 @@ export const ordersApi = apiSlice.injectEndpoints({
       query: ({ orderStatus, search }) => ({
         url: `billing/v1/order/?status=${orderStatus}&search=${search}`,
         //! for signed in user
-        // https://api.chatchefs.com/api/billing/v1/order/
+        // http://api.hungry-tiger.com/api/billing/v1/order/
         headers: {
           Authorization: `token ${JSON.parse(localStorage.getItem("auth")).token
             }`,
@@ -50,7 +50,7 @@ export const ordersApi = apiSlice.injectEndpoints({
       query: ({ restaurantId, locationId }) => ({
         url: `billing/v1/order/?restaurant=${restaurantId}&location=${locationId}`,
         //! for signed in user
-        // https://api.chatchefs.com/api/billing/v1/order/
+        // http://api.hungry-tiger.com/api/billing/v1/order/
         headers: {
           Authorization: `token ${JSON.parse(localStorage.getItem("auth")).token
             }`,

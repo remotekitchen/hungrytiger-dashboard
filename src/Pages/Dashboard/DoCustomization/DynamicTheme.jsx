@@ -484,7 +484,7 @@ const DynamicTheme = () => {
 
   // Function to determine the subdomain based on the base URL
   const getSubdomain = (baseUrl) => {
-    if (baseUrl === "https://api.chatchefs.com/") {
+    if (baseUrl === "http://api.hungry-tiger.com/") {
       return "order";
     } else if (baseUrl === "https://test.api.chatchefs.com/") {
       return "dev";
